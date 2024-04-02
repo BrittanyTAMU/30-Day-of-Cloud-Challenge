@@ -1,4 +1,4 @@
-**Day 29: Collaboration project - Daily Calendar of the 30-Day Cloud Challenge**
+# **Day 29: Collaboration project - Daily Calendar of the 30-Day Cloud Challenge**
 
 The HTML and CSS code creates a visually appealing calendar interface to help users track their progress in the 30-day cloud challenge, providing an intuitive way to organize and manage daily tasks and goals.
 
